@@ -1,0 +1,1 @@
+"Low-level design and implementation for a ride-sharing application system. Includes architecture, design patterns, class diagrams, and core components for managing rides, drivers, passengers, and bookings.
